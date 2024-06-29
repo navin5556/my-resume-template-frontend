@@ -7,4 +7,4 @@ My HTML verison Resume
 - AWS Pipeline
 
 # Hosting
-Hosted on AWS S3: [http://rishabkumar.ml](http://rishabkumar.ml)
+Hosted on AWS S3: [http://devopsnaveen.info](http://devopsnaveen.info)
