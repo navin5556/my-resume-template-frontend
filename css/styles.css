@@ -10136,3 +10136,34 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+/* Add this at the end of styles.css or in an appropriate section */
+#home .mx-auto {
+  font-size: 2rem; /* Adjust size as needed */
+}
+
+#dynamic-text {
+  font-size: 2rem; /* Adjust size as needed */
+  color: #6c63ff; /* Ensure the color contrasts with the background */
+}
+
+#font-ram {
+  font-size: 2rem; /* Adjust size as needed */
+  color: #343a40; /* Ensure the color contrasts with the background */
+}
+#home {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #343a40; /* Adjust as needed */
+}
+
+#home .container {
+  text-align: center;
+}
+
+#home h1 {
+  font-size: 3rem; /* Adjust size as needed */
+  color: #fff; /* Ensure the color contrasts with the background */
+}
