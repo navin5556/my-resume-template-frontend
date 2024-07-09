@@ -1,10 +1,7 @@
-# My resume
-My HTML verison Resume
+This is the respository for my resume challenge frontend code. Updates to the repo are automatically pushed into AWS, where my resume is hosted in an S3 bucket as a static website.
 
-# Tech Stack
-- HTML/CSS & JavaScript
-- AWS S3
-- AWS Pipeline
+Backend code in a separate repository connects this static website with AWS Lambda, and a DynamoDB table to provide a dynamic visitor counter.
+
 
 # Hosting
-Hosted on AWS S3: [http://resume.devopsnaveen.info](http://resume.devopsnaveen.info)
+Resume website: [http://resume.devopsnaveen.info](http://resume.devopsnaveen.info)
