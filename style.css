@@ -117,8 +117,8 @@ body{
     background-position: 40% 0;
 } */
 .site-banner .banner-area .author .author-img {
-    width: 240px;
-    height: 240px;
+    width: 200px;
+    height: 200px;
     border-radius: 50%;
     margin: auto;
     background: url(./assets/avatar-alt.jpg) no-repeat;
@@ -132,8 +132,8 @@ body{
     position: absolute;
     top: 50%;
     left: 50%;
-    width: 280px; /* Adjust size as needed */
-    height: 280px; /* Adjust size as needed */
+    width: 240px; /* Adjust size as needed */
+    height: 240px; /* Adjust size as needed */
     border-radius: 50%;
     transform: translate(-50%, -50%);
     background: rgba(224, 233, 233, 0.2); /* Light color for the glow effect */
