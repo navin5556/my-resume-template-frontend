@@ -117,9 +117,9 @@ body{
     background-position: 40% 0;
 } */
 .site-banner .banner-area .author .author-img {
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
+    width: 215px;
+    height: 215px;
+    border-radius: 15%;
     margin: auto;
     background: url(./assets/avatar-alt.jpg) no-repeat;
     background-size: 110%;
@@ -129,7 +129,7 @@ body{
 
 .site-banner .banner-area .author .author-img::before {
     content: '';
-    position: absolute;
+    /* position: absolute; */
     top: 50%;
     left: 50%;
     width: 240px; /* Adjust size as needed */
